@@ -15,7 +15,7 @@ const erica = {
     personal: {
         fullName: 'Erica Almeida de Jesus',
         interests: ['Music', 'Workout', 'Learn new languages', 'Anime', 'Get to know new cultures'],
-        languages: ['Português-BR', 'English', 'Japanese'],
+        languages: ['Portuguese-BR', 'English', 'Japanese'],
         motivation: 'Making life easier and smarter through tech',
     },
     technical: {
